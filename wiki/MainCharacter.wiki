@@ -1,0 +1,10 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+This is the main character
+
+
+= Details =
+
+The main name-able character in which you play as
